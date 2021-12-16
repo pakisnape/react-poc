@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Big Buck Bunny",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "title": "Elephant Dream",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "title": "For Bigger Blazes",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "title": "For Bigger Escape",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "title": "For Bigger Fun",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "title": "For Bigger Joyrides",
+    "poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+    "sources": [
+      {
+        "src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+]

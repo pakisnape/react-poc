@@ -1,0 +1,27 @@
+.player,
+.player .video-js {
+  width: 80%;
+}
+/* .vjs-control-bar {
+  display: flex;
+  visibility: visible;
+  opacity: 1;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  padding: 0 0.75em;
+  transition: 0.3s ease opacity;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(23, 23, 23, 0) 0%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+  padding-top: 10px;
+}
+.vjs-progress-control .vjs-progress-holder {
+  position: relative;
+  width: 100%;
+  height: 0.96em;
+  outline: 0;
+} */
